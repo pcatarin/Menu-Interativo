@@ -8,7 +8,7 @@ do {
         '\nc) Programa de Conversão de Medidas.' +
         '\nd) Programa de Turismo.' +
         '\ne) Encerrar.' +
-        '\n\n Escolha pelo numero'
+        '\n\n Escolha pela letra...'
     )
 
     switch (opcoes) {
